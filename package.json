@@ -1,0 +1,47 @@
+{
+  "name": "memeyman",
+  "version": "1.9.7",
+  "description": "memey man discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "redteadeveloper",
+  "license": "ISC",
+  "dependencies": {
+    "@danke77/google-translate-api": "^1.0.0",
+    "@discordjs/opus": "^0.3.3",
+    "@hkh12/node-calc": "^4.0.3",
+    "ascii85": "^1.0.2",
+    "axios": "^0.21.0",
+    "canvas": "^2.6.1",
+    "cheerio": "^1.0.0-rc.3",
+    "common-tags": "^1.8.0",
+    "discord-youtube-api": "^0.1.0",
+    "discord.js": "^12.5.0",
+    "discord.js-collector": "^1.5.32",
+    "enmap": "^5.8.2",
+    "g-i-s": "^2.1.6",
+    "mongoose": "^5.10.15",
+    "ms": "^2.1.2",
+    "needle": "^2.5.2",
+    "node-fetch": "^2.6.1",
+    "nodeyourmeme": "^2.0.0",
+    "querystring": "^0.2.0",
+    "urban": "^0.3.2",
+    "urban-dictionary": "^2.2.1",
+    "util": "^0.12.3",
+    "uwufy": "^1.0.6",
+    "wolfram-alpha-node": "0.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redteadeveloper/MemeyMan-bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/redteadeveloper/MemeyMan-bot/issues"
+  },
+  "homepage": "https://github.com/redteadeveloper/MemeyMan-bot#readme"
+}
