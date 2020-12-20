@@ -11,7 +11,7 @@ exports.run = async (bot, msg, args) => {
 
     let evaled;
     try {
-        evaled = await eval(evalcmd);
+        evaled = await eval(`if (1>0) { ${evalcmd} }`);
         msg.channel.send("```yaml\n" + 
         inspect(evaled)
         + "\n```").catch(error => {
