@@ -13,7 +13,7 @@
     "@discordjs/opus": "^0.3.3",
     "@hkh12/node-calc": "^4.0.3",
     "ascii85": "^1.0.2",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "canvas": "^2.6.1",
     "cheerio": "^1.0.0-rc.5",
     "common-tags": "^1.8.0",
