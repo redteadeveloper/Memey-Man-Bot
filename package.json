@@ -11,7 +11,7 @@
   "dependencies": {
     "@danke77/google-translate-api": "^1.0.0",
     "@discordjs/opus": "^0.3.3",
-    "@hkh12/node-calc": "^4.0.3",
+    "@hkh12/node-calc": "^4.2.0",
     "ascii85": "^1.0.2",
     "axios": "^0.21.1",
     "canvas": "^2.6.1",
