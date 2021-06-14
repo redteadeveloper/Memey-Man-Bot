@@ -10,7 +10,7 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@danke77/google-translate-api": "^1.0.0",
-    "@discordjs/opus": "^0.3.3",
+    "@discordjs/opus": "^0.5.3",
     "@hkh12/node-calc": "^4.0.3",
     "ascii85": "^1.0.2",
     "axios": "^0.21.1",
